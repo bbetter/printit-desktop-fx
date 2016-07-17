@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Application uri="localhost" launch="com.owl.printit.PrintItApp">
+    <lib file="hamcrest-core.jar" checksum="1597245928" size="45024"/>
+    <lib file="javax.json.jar" checksum="3454783366" size="85147"/>
+    <lib file="junit.jar" checksum="2756529828" size="314932"/>
+    <lib file="kotlin-reflect.jar" checksum="2408627485" size="2267144"/>
+    <lib file="kotlin-runtime.jar" checksum="919826825" size="178223"/>
+    <lib file="kotlin-stdlib.jar" checksum="2803955422" size="578523"/>
+    <lib file="kotlin-test-junit.jar" checksum="2170727972" size="5593"/>
+    <lib file="kotlin-test.jar" checksum="2499373330" size="35874"/>
+    <lib file="printit-1.0-SNAPSHOT.jar" checksum="2982628449" size="35916"/>
+    <lib file="spek.jar" checksum="2256606154" size="55435"/>
+    <lib file="tornadofx.jar" checksum="3090231431" size="619611"/>
+    <updateText>Updating...</updateText>
+    <updateLabelStyle>-fx-font-weight: bold;</updateLabelStyle>
+    <progressBarStyle>-fx-pref-width: 200;</progressBarStyle>
+    <wrapperStyle>-fx-spacing: 10; -fx-padding: 25;</wrapperStyle>
+</Application>

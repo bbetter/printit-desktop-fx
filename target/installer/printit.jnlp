@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="printit.jnlp">
+  <information>
+    <title>printit</title>
+    <vendor>Owlsoft</vendor>
+    <description>printit</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="fxlauncher.jar" size="14616" download="null" />
+  </resources>
+  <jfx:javafx-desc  width="0" height="0" main-class="fxlauncher.Launcher"  name="printit" />
+  <update check="background"/>
+</jnlp>
